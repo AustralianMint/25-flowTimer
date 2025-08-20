@@ -7,7 +7,6 @@ const secondDiv = document.querySelector('.seconds');
 
 let myInterval;
 let state = true;
-let pauseState = false;
 let totalSeconds;
 
 const appTimer = () => {
